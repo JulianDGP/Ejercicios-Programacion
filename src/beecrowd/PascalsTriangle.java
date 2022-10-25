@@ -15,6 +15,7 @@ public class PascalsTriangle {
         for(byte i=0; i<q; i++) {
             byte n = in.nextByte();
             System.out.println(sumar(n));
+
         }
     }
 }
